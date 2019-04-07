@@ -2,6 +2,6 @@
 template: page
 title: Research
 slug: pages/research
-draft: true
+draft: false
 ---
 A draft page
