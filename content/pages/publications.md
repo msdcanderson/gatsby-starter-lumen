@@ -1,7 +1,7 @@
 ---
 template: page
 title: Publications
-slug: /pages/publications
+slug: pages/publications
 draft: false
 ---
 Publications page
